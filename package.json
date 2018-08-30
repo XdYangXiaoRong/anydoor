@@ -1,0 +1,22 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "node静态资源服务器的搭建",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XdYangXiaoRong/anydoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XdYangXiaoRong/anydoor/issues"
+  },
+  "homepage": "https://github.com/XdYangXiaoRong/anydoor#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
